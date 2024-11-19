@@ -18,7 +18,7 @@ This repository contains the code for an AI-powered application that generates c
 
 
 ### Contributors  
-- [Ayah Hani](https://github.com/ayahani59)  
+- [Aya Hani](https://github.com/ayahani59)  
 - [Dina Omar](https://github.com/DinaOmar02)  
 
 ### Key Components:  
