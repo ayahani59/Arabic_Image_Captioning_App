@@ -13,7 +13,7 @@ This project implements an **automated pipeline** for processing images, generat
 
 ## Overview  
 
-The pipeline allows users to upload an image and interactively receive captions, translations, and answers to questions about the image. Designed for accessibility, it provides text and audio outputs in Arabic.  
+This repository contains the code for an AI-powered application that generates captions for images, translates them into Arabic, and answers user-submitted questions in Arabic.  
 
 ### Key Components:  
 1. **Image Captioning**: Generates descriptive captions for input images.  
@@ -39,6 +39,15 @@ The pipeline allows users to upload an image and interactively receive captions,
 
 - **Interactive Interface**  
    - Built with Gradio for a seamless user experience.
+
+---
+
+## Tech Stack  
+- **Python**  
+- **Hugging Face Transformers**  
+- **BLIP Models**  
+- **gTTS**  
+- **Gradio** 
 
 ---
 
@@ -68,7 +77,7 @@ To set up this project locally, follow these steps:
 
 2. **Install required libraries**  
     ```bash  
-    pip install -r requirements.txt  
+    pip install -r Requirements.txt  
     ```  
 
 3. **Run the app**  
