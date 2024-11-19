@@ -25,26 +25,26 @@ The pipeline allows users to upload an image and interactively receive captions,
 
 ## Features  
 
-- **Caption Generation**  
-   - Automatically generates captions for uploaded images using advanced AI models.  
+- **Image Captioning**  
+   - Generate captions for uploaded images using advanced AI models. 
 
-- **Arabic Translation**  
-   - Translates captions into Arabic for accessibility.  
+- **Caption Translation**  
+   - Translate captions into Arabic for regional users. 
 
-- **Question Answering**  
-   - Enables users to ask questions about the image and receive context-aware answers in Arabic.  
-
-- **Audio Output**  
+- **Audio Generation**  
    - Converts Arabic captions into speech for audio playback or download.  
 
+- **Question Answering**  
+   - Answer user-submitted questions about the uploaded image.
+
 - **Interactive Interface**  
-   - Provides a user-friendly Gradio-based UI for seamless interaction.  
+   - Built with Gradio for a seamless user experience.
 
 ---
 
 ## Workflow  
 
-Here’s a step-by-step breakdown of the system pipeline:  
+Here’s breakdown of the application system:  
 
 1. **Input Image**: User uploads an image via the Gradio interface.  
 2. **Caption Generation**: The image is processed to generate an English caption using a BLIP-based model.  
@@ -62,8 +62,8 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository**  
     ```bash  
-    git clone https://github.com/Abdelmanemm/Image_arabic_description.git  
-    cd Image_arabic_description  
+    git clone https://github.com/ayahani59/Arabic_Image_Captioning_App.git
+   cd Arabic_Image_Captioning_App
     ```  
 
 2. **Install required libraries**  
@@ -71,7 +71,7 @@ To set up this project locally, follow these steps:
     pip install -r requirements.txt  
     ```  
 
-3. **Run the application**  
+3. **Run the app**  
     ```bash  
     python app.py  
     ```  
