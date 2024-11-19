@@ -2,7 +2,8 @@
 
 ## Table of Contents  
 - [Overview](#overview)  
-- [Features](#features)  
+- [Features](#features)
+- [Tech Stack](#Tech-Stack)
 - [Workflow](#workflow)  
 - [Installation](#installation)  
 - [Usage](#usage)  
