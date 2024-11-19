@@ -1,7 +1,5 @@
 # Arabic Image Captioning and Question Answering App 
 
-This project implements an **automated pipeline** for processing images, generating captions, translating captions to Arabic, and answering questions related to the images. It employs state-of-the-art machine learning models for image captioning, translation, and visual question answering (VQA). Additionally, the system converts Arabic captions to audio for playback. The interactive interface is powered by Gradio.
-
 ## Table of Contents  
 - [Overview](#overview)  
 - [Features](#features)  
