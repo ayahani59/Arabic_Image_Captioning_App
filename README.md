@@ -1,7 +1,9 @@
 # Arabic Image Captioning and Question Answering App 
 
 ## Table of Contents  
-- [Overview](#overview)  
+- [Overview](#overview)
+- [Contributors](#Contributors)
+- [Key Components](#Key-Components)
 - [Features](#features)
 - [Tech Stack](#Tech-Stack)
 - [Workflow](#workflow)  
