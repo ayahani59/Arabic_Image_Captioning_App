@@ -14,6 +14,11 @@
 
 This repository contains the code for an AI-powered application that generates captions for images, translates them into Arabic, and answers user-submitted questions in Arabic.  
 
+
+### Contributors  
+- [Ayah Hani](https://github.com/ayahani59)  
+- [Dina Omar](https://github.com/DinaOmar02)  
+
 ### Key Components:  
 1. **Image Captioning**: Generates descriptive captions for input images.  
 2. **Arabic Translation**: Translates captions from English to Arabic.  
